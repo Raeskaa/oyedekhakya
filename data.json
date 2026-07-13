@@ -1,0 +1,40 @@
+{
+  "updated_at": "2026-07-14",
+  "deadlines": [
+    { "title": "Y Combinator — Fall 2026 Batch", "date": "2026-07-27", "note": "On-time application deadline, 8pm PT", "url": "https://www.ycombinator.com/apply" },
+    { "title": "VSLive! Microsoft AI Hackathon", "date": "2026-07-28", "note": "Two-evening hackathon, up to $25,000 in prizes", "url": "https://vslive.com/events/microsofthq-2026/hackathon.aspx" }
+  ],
+  "hackathons": {
+    "ai_ml": [
+      { "title": "AI Hackathon 2026 (LA Hacks)", "note": "Open now", "url": "https://ai.lahacks.com" },
+      { "title": "DevNetwork AI + ML Hackathon 2026", "note": "Co-located with AI DevSummit, 300+ participants", "url": "https://aidevsummit.co/hackathon/" },
+      { "title": "VSLive! Microsoft AI Hackathon", "note": "Jul 28–29, up to $25,000 in prizes", "url": "https://vslive.com/events/microsofthq-2026/hackathon.aspx" },
+      { "title": "USAII Global AI Hackathon 2026", "note": "Pre-registration open, $15,000 prize pool", "url": "https://aihackathon.usaii.org/" },
+      { "title": "lablab.ai AI Hackathons", "note": "Rolling list of themed AI hackathons", "url": "https://lablab.ai/ai-hackathons" },
+      { "title": "AI & Big Data Expo Europe Hackathon", "note": "Oct 19–20, Amsterdam", "url": "https://www.ai-expo.net/europe/" },
+      { "title": "Devpost — AI category", "note": "Full rolling list", "url": "https://devpost.com/c/artificial-intelligence" }
+    ],
+    "general": [
+      { "title": "MLH 2026 Season", "note": "200+ student hackathons worldwide", "url": "https://www.mlh.com/seasons/2026/events" },
+      { "title": "Devpost — New & Upcoming", "note": "Broadest rolling list across all themes", "url": "https://devpost.com/hackathons" },
+      { "title": "Devfolio", "note": "Popular for India/Asia-based hackathons", "url": "https://devfolio.co/hackathons" },
+      { "title": "IBM TechXchange Hackathons", "note": "Enterprise/dev-tools focused", "url": "https://www.ibm.com/community/techxchange-hackathons/" },
+      { "title": "NVIDIA Open Hackathons", "note": "GPU/accelerated-computing focused", "url": "https://www.openhackathons.org/s/upcoming-events" }
+    ]
+  },
+  "credits": {
+    "ai_api": [
+      { "title": "Anthropic Startup Program", "note": "Up to $25K self-serve (rolling, ~2wk review); up to $100K+ via VC/accelerator referral; no equity", "url": "https://www.anthropic.com/startup-program-official-terms" },
+      { "title": "OpenAI Grove / startup credits", "note": "$50K for the 5-week Grove cohort; smaller $2,500 Ramp-linked tier", "url": "https://openai.com" },
+      { "title": "Other AI providers (Mistral, Together AI, etc.)", "note": "Running comparison of AI credit programs", "url": "https://creditforstartups.com/credits/ai" }
+    ],
+    "cloud_infra": [
+      { "title": "AWS Activate", "note": "Founders tier $1K; Portfolio tier (VC/accelerator-backed) up to $100K; Gen-AI tier up to $300K", "url": "https://aws.amazon.com/activate/" },
+      { "title": "Google Cloud for Startups", "note": "Up to $100K yr1 + $100K yr2 (equity-funded); AI-First up to $350K total; unfunded Start tier up to $2K", "url": "https://cloud.google.com/startup" },
+      { "title": "Microsoft Azure for Startups", "note": "Up to $150K in credits, no VC backing required; includes GitHub Enterprise + Visual Studio Enterprise", "url": "https://startups.microsoft.com" }
+    ]
+  },
+  "accelerators": [
+    { "title": "Y Combinator — Fall 2026", "note": "On-time deadline Jul 27, 2026, 8pm PT — $500K investment via SAFEs", "url": "https://www.ycombinator.com/apply" }
+  ]
+}
