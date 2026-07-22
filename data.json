@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-07-15",
+  "updated_at": "2026-07-22",
   "items": [
     { "title": "Y Combinator — Fall 2026 Batch", "category": "Accelerator", "subcategory": "", "date": "2026-07-27", "note": "On-time application deadline, 8pm PT — $500K investment via SAFEs; decisions by Aug 28", "url": "https://www.ycombinator.com/apply" },
     { "title": "VSLive! Microsoft AI Hackathon", "category": "Hackathon", "subcategory": "AI/ML", "date": "2026-07-28", "note": "Two-evening hackathon, up to $25,000 in prizes", "url": "https://vslive.com/events/microsofthq-2026/hackathon.aspx" },
     { "title": "MLH Global Hack Week: Agents", "category": "Hackathon", "subcategory": "AI/ML", "date": "2026-08-07", "note": "Week-long online event (Aug 7–13) themed on AI agents", "url": "https://ghw.mlh.com/events/agents" },
     { "title": "AI & Big Data Expo Europe Hackathon", "category": "Hackathon", "subcategory": "AI/ML", "date": "2026-10-19", "note": "Amsterdam, RAI convention centre", "url": "https://www.ai-expo.net/europe/" },
+    { "title": "Open Atlas — AI for Social Good Hackathon 2026", "category": "Hackathon", "subcategory": "AI/ML", "date": "2026-08-20", "note": "LLMs/agents/RAG for real problems; submissions due 5pm PT, top teams pitch live in Milpitas Aug 21", "url": "https://oa-ai-for-social-good.devpost.com/" },
+    { "title": "DevNetwork [API + Cloud + AI] Hackathon 2026", "category": "Hackathon", "subcategory": "AI/ML", "date": "2026-08-17", "note": "Launches 10am PT at Santa Clara Convention Center + online; part of AI DevSummit", "url": "https://aidevsummit.co/hackathon/" },
 
     { "title": "AI Hackathon 2026 (LA Hacks)", "category": "Hackathon", "subcategory": "AI/ML", "date": null, "status": "Open", "note": "Open for applications now", "url": "https://ai.lahacks.com" },
-    { "title": "DevNetwork AI + ML Hackathon 2026", "category": "Hackathon", "subcategory": "AI/ML", "date": null, "status": "Open", "note": "Co-located with AI DevSummit, 300+ participants", "url": "https://aidevsummit.co/hackathon/" },
     { "title": "USAII Global AI Hackathon 2026", "category": "Hackathon", "subcategory": "AI/ML", "date": null, "status": "Pre-registration", "note": "$15,000 prize pool, students worldwide", "url": "https://aihackathon.usaii.org/" },
     { "title": "lablab.ai AI Hackathons", "category": "Hackathon", "subcategory": "AI/ML", "date": null, "status": "Rolling", "note": "Rolling list of themed AI hackathons", "url": "https://lablab.ai/ai-hackathons" },
     { "title": "Devpost — AI category", "category": "Hackathon", "subcategory": "AI/ML", "date": null, "status": "Rolling", "note": "Full rolling list of AI hackathons", "url": "https://devpost.com/c/artificial-intelligence" },
@@ -18,7 +19,7 @@
     { "title": "IBM TechXchange Hackathons", "category": "Hackathon", "subcategory": "General", "date": null, "status": "Rolling", "note": "Enterprise/dev-tools focused", "url": "https://www.ibm.com/community/techxchange-hackathons/" },
     { "title": "NVIDIA Open Hackathons", "category": "Hackathon", "subcategory": "General", "date": null, "status": "Rolling", "note": "GPU/accelerated-computing focused", "url": "https://www.openhackathons.org/s/upcoming-events" },
 
-    { "title": "Anthropic Startup Program", "category": "Credit", "subcategory": "AI API", "date": null, "status": "Open", "note": "Up to $25K self-serve (rolling, ~2wk review); up to $100K+ via VC/accelerator referral; no equity", "url": "https://www.anthropic.com/startup-program-official-terms" },
+    { "title": "Anthropic Startup Program", "category": "Credit", "subcategory": "AI API", "date": null, "status": "Open", "note": "$25K–$100K+ Claude credits, no equity (12-mo expiry); also Claude for Open Source: Max 20x free 6 mo, 10K spots", "url": "https://www.anthropic.com/startup-program-official-terms" },
     { "title": "OpenAI startup credits", "category": "Credit", "subcategory": "AI API", "date": null, "status": "Open", "note": "~$2,500 self-serve via Ramp; up to $500K no-equity or +$1.5M equity track via partners", "url": "https://openai.com" },
     { "title": "Other AI providers (Mistral, Together AI, etc.)", "category": "Credit", "subcategory": "AI API", "date": null, "status": "Open", "note": "Running comparison of AI credit programs", "url": "https://creditforstartups.com/credits/ai" },
 
